@@ -1,0 +1,36 @@
+{
+  "name": "nas-mongodb-adapter",
+  "version": "1.0.0",
+  "description": "MongoDB adapter module for the NAS Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/whynotsoluciones/nas-mongodb-adapter"
+  },
+  "keywords": [
+    "util",
+    "nas"
+  ],
+  "author": "Why Not Soluciones, S.L. <info+npm@whynotsoluciones.com>",
+  "contributors": [{
+    "name" : "Ezequiel Cuñado",
+    "email" : "ecunado@gmail.com"
+  },{
+    "name" : "Javier Fernandez",
+    "email" : "javier.fdez@gmail.com"
+  }],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whynotsoluciones/nas-mongodb-adapter/issues"
+  },
+  "homepage": "https://github.com/whynotsoluciones/nas-mongodb-adapter#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
