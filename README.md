@@ -1,8 +1,8 @@
-# nas-util
+# nas-mongodb-adapter
 
-## Node Api Seed util package
+## Node Api Seed MongoDB adapter
 
-This package provides utility methods for the NAS (aka Node Api Seed) Framework
+This package provides MongoDB related funcitonality for the NAS (aka Node Api Seed) Framework
 
 ## Tests
 
